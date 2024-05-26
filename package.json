@@ -4,8 +4,15 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "expo": "~50.0.14",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.73.6"
+  },
   "devDependencies": {
+    "@expo/cli": "~0.17.8",
+    "@nx/expo": "19.1.0",
     "@nx/js": "19.1.0",
     "@nx/workspace": "19.1.0",
     "nx": "19.1.0"
