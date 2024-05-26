@@ -1,1 +1,2 @@
 nx add @nx/expo
+yarn nx generate @nx/expo:application --name=my-expo-app --directory=apps/my-expo-app --e2eTestRunner=none --projectNameAndRootFormat=as-provided --no-interactive
